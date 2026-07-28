@@ -1,4 +1,4 @@
-# Yutnori – Traditional Korean Board Game 
+# Yutnori – Traditional Korean Board Game by Team 5
 
 > A modern web-based implementation of the traditional Korean board game **Yutnori**, featuring Local Match, AI Match, multilingual support, custom player profiles, and a polished responsive interface.
 
@@ -163,9 +163,9 @@ Yutnori/
 
 | Name | Student ID | 
 |------|------------|
-| Arpa Bhowmik | U220 | 
 | Yeasmin Kabir Keya | U205 | 
 | Fahima Abida Chowdhury | U210 | 
+| Arpa Bhowmik | U220 | 
 
 ---
 
